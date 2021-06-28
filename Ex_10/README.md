@@ -3,4 +3,4 @@
 
 *screenshot*
 
-In this exercise I had to recreate my application using picture given by lecturer.
+**In this exercise I had to recreate my application using picture given by lecturer.**
